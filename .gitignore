@@ -1,0 +1,10 @@
+*.php
+*.txt
+*.html
+wp-includes/
+wp-admin/
+wp-content/*
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/Shaw
+
