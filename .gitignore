@@ -1,7 +1,6 @@
 *.php
 *.txt
 *.html
-.*
 .idea/
 wp-includes/
 wp-admin/
